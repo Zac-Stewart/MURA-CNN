@@ -1,0 +1,13 @@
+#python
+__pycache__/
+*.pyc
+*.pyo 
+.venv/
+venv/
+.env
+
+#OS
+.DS_Store
+Thumbs.db
+
+MURA-v1.1
